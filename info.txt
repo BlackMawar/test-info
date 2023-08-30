@@ -2,3 +2,4 @@ Name: Mohamad Anif Rastari
 Age: 28 Years old
 Date: 30/08/2023
 BOD: 01/11/1995
+Food: Chicken Rice
